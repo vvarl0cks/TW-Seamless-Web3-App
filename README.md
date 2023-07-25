@@ -7,12 +7,12 @@ Create a web3 app that allows a user to sign in with an email, which will genera
 - `Paper Docs` https://docs.withpaper.com/reference/checkoutwithcard
 - `thirdweb Docs` https://portal.thirdweb.com/react
 
-## Demo   
+## Demo 🚀 https://warlocks-withpaper.netlify.app   
 
 <a href="https://github.com/vvarl0cks/TW-Seamless-Web3-App"><img src="https://iili.io/HQr0jK7.png" alt="HQr0jK7.png" border="0" /></a>   
 
-Demo: Deploying.. ⏳   
-Chain: Sepolia   
+> **Demo: https://warlocks-withpaper.netlify.app**   
+> **Chain: Sepolia**   
 
 ## Getting Started
 
